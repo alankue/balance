@@ -47,7 +47,7 @@ span[class~="sr-only"] {
     border: 2px solid #d0d0d5;
   }
   
-  #years {
+  #months {
     display: flex;
     justify-content: flex-end;
     position: sticky;
@@ -59,7 +59,7 @@ span[class~="sr-only"] {
     margin: 0 -2px;
   }
   
-  #years span[class] {
+  #months span[class] {
     font-weight: bold;
     width: 4.5rem;
     text-align: right;
